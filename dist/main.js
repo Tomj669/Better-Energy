@@ -1,0 +1,1 @@
+fetch('/navbar.html').then(resp=>resp.text()).then(data=>{navigator.})
